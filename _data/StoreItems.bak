@@ -994,13 +994,13 @@
       "abr": "steel",
       "category": "Raw resources",
       "defname": "Steel",
-      "price": 2
+      "price": 3
     },
     {
       "abr": "plasteel",
       "category": "Raw resources",
       "defname": "Plasteel",
-      "price": 5
+      "price": 15
     },
     {
       "abr": "wood",
