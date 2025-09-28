@@ -42,6 +42,12 @@
     "version": null
   },
   {
+    "author": "GoGaTio",
+    "name": "Always Draft Your Mechs (Almost)",
+    "steamId": "3334556472",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
@@ -252,6 +258,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Pal 5k",
+    "name": "Hunter Mechanoid",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
@@ -282,6 +294,18 @@
     "version": "1.0.0+c5d2778abbeb0e954cdcbdc7eeb3901bf9e86b8b"
   },
   {
+    "author": "Pal 5k",
+    "name": "Logistics Mechanoid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GoGaTio",
+    "name": "Lost Factory Mechanoids",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Doug",
     "name": "Map Edit Tools",
     "steamId": null,
@@ -294,22 +318,34 @@
     "version": null
   },
   {
+    "author": "AzzyH",
+    "name": "Mech Charger Booster",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SpaceMoth",
+    "name": "Mech Work Tab",
+    "steamId": "3268299107",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zoarak963",
+    "name": "Mechanitor Orbital Platform",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "StatistNo1, Rebel_Rabbit and Cain",
     "name": "Mines 2.0",
     "steamId": "2503894706",
     "version": "0.0.0.0"
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.6.48"
+    "version": "1.6.58"
   },
   {
     "author": "EvilToaster",
@@ -441,7 +477,7 @@
     "author": "Uuugggg",
     "name": "Smart Medicine - Continued",
     "steamId": "",
-    "version": "1.0.0+068c6513655e6967ed2e593d3f976cb920e336a0"
+    "version": "1.0.0+039d067e32f24f91e6520e43b628a17d944b6507"
   },
   {
     "author": "dhultgren",
@@ -489,7 +525,7 @@
     "author": "Uuugggg",
     "name": "TD Enhancement Pack - Continued",
     "steamId": "",
-    "version": "1.0.0+8903dce780011e85ff19cd80847764c632fdd965"
+    "version": "1.0.0+4bd707cb53e0308051bb39555a868fad48e93811"
   },
   {
     "author": "Uuugggg",
@@ -606,12 +642,6 @@
     "version": null
   },
   {
-    "author": "cabmoomoo",
-    "name": "Misc. Robots++",
-    "steamId": "3253308913",
-    "version": "1.0.0+a6b21f56d3af4cca6161d768fdbdc78d6fa3dcdd"
-  },
-  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
@@ -681,6 +711,12 @@
     "author": "Edge Crescent",
     "name": "HousekeeperAssistanceCat",
     "steamId": "1541620640",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "GoGaTio",
+    "name": "Mechanoid Upgrades",
+    "steamId": "3365118555",
     "version": "1.0.0.0"
   },
   {
@@ -930,6 +966,12 @@
     "version": null
   },
   {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Exploration Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sarg Bjornson and AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
@@ -950,6 +992,12 @@
   {
     "author": "Ivy",
     "name": "Avali Are Avali",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GoGaTio",
+    "name": "Mechanoid Upgrades - Anomaly",
     "steamId": null,
     "version": null
   },
@@ -1046,6 +1094,12 @@
   {
     "author": "Maaxar",
     "name": "Dubs Skylights Glass+Lights Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GoGaTio",
+    "name": "Mechanoid Upgrades - Archotech",
     "steamId": null,
     "version": null
   },

@@ -22,8 +22,8 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
+		"price": 950,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "foggyrain",
@@ -161,11 +161,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
@@ -266,11 +261,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -278,12 +268,12 @@
 	{
 		"abr": "trait",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "removetrait",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "genderswap",
@@ -368,7 +358,7 @@
 	{
 		"abr": "backpack",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "settraits",
@@ -382,11 +372,6 @@
 	},
 	{
 		"abr": "use",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "wear",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -416,5 +401,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 83
+	"total": 80
 }
